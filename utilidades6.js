@@ -1,0 +1,1 @@
+import {esElegibleParaPrestamo} from './utilidades6.js'
